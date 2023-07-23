@@ -20,7 +20,7 @@ go get -u github.com/gorilla/mux
 3. Build the API using the following command:
 
 ```bash
-go build -o myapi
+go build
 ```
 
 This will create an executable file named `myapi` (or `myapi.exe` on Windows) in the same directory.
