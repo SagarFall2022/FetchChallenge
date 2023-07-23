@@ -1,4 +1,3 @@
-Apologies for the oversight. Below is the updated README file with instructions for using `go build` and `go run`:
 
 ## Prerequisites
 
